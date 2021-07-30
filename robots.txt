@@ -1,0 +1,1 @@
+Sitemap: https://m7mdra.github.io/jekyll-theme-mehdix-rtl/sitemap.xml
